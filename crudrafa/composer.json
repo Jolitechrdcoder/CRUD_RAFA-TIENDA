@@ -1,0 +1,23 @@
+{
+   "name": "mecatronicosrd/crudrafa",
+   "description": "crudrafa",
+   "type": "project",
+   "license": "MIT",
+   "authors":
+    [
+    {
+        "name": "Jorge Luis Martinez Suarez",
+        "email": "mecatronicosrd@gmail.com"
+    }
+   ],
+   "require": 
+   {
+     
+   },
+   "autoload": 
+   {
+     "psr-4": {
+        "mecatronicosrd\\":"src/"
+     }
+   }
+}
