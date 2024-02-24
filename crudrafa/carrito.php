@@ -45,7 +45,7 @@ if(isset($_GET['id']) && is_numeric($_GET['id'])){
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>RFtechnology</title>
+    <title>RF</title>
 
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
